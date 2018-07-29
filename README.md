@@ -7,6 +7,8 @@ El material está armado a partir de archivos de texto plano, con formato en mark
 
 Pueden leerlo directamente, o pueden utilizar los scripts dentro de `utils` para armar la presentación.
 
+Si quieren ver las fórmulas que aparecen como `$ ... $` pueden verlas en la presentación o pegando el contenido en [AsciiMath](http://www.asciimath.org/).
+
 
 ### Lunes
 
@@ -50,9 +52,6 @@ Aplicación a aprendizaje de máquina: redes neuronales, inferencia, entrenamiento
 - [Aprendizaje de máquina](ml.md)
 - [Frameworks](frameworks.md)
 - [Inferencia](eval.md)
-- [Entrenamiento](training.md)
-- [Performance](performance.md)
-- [Dispositivos Móbiles](mobile.md)
 - [Modelos de programación](modelos-prog.md)
 - [Color](color.md)
 
@@ -60,6 +59,14 @@ Aplicación a aprendizaje de máquina: redes neuronales, inferencia, entrenamiento
 ### Viernes
 
 Aplicación a rendering: técnicas, color, etc.
+
+- [vcpkg](vcpkg.md)
+- [Performance](performance.md)
+- [Mallas](meshes.md)
+- [Cámaras](camaras.md)
+- [Dispositivos Móbiles](mobile.md)
+- [Escenas](escenas.md)
+- [Trabajo Práctico](tp.md)
 
 
 ## Preparado de presentación
